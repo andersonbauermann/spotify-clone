@@ -125,6 +125,9 @@ footer ul li {
     float: right;
     margin: 0 5px;
 }
+.carousel-control-prev, .carousel-control-next {
+    width: 5%;
+}
 
 /* Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) {
